@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
 
         initListener()
         initRecyclerView()
+
         //binding.memo = memoList
     }
 
